@@ -121,5 +121,3 @@ curl -X POST http://localhost:8080/api/readings \
 - Rule-based detection is not a trained AI model. For credible ML evaluation, collect representative labeled data, train and test a model, and report metrics.
 - Savings are estimates based on configured assumptions, not verified real-world conservation.
 - Authentication, role-based access, production deployment, real sensor ingestion, and migration/versioning policy are future enhancements.
-=======
-
