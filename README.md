@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AquaGuard AI — Full-Stack Starter Project
 
 AquaGuard AI is a water-monitoring demo that uses simulated readings to demonstrate suspected leak detection, tank-fill predictions, consumption analytics, and estimated water savings.
@@ -122,6 +121,3 @@ curl -X POST http://localhost:8080/api/readings \
 - Rule-based detection is not a trained AI model. For credible ML evaluation, collect representative labeled data, train and test a model, and report metrics.
 - Savings are estimates based on configured assumptions, not verified real-world conservation.
 - Authentication, role-based access, production deployment, real sensor ingestion, and migration/versioning policy are future enhancements.
-=======
-# AquaGuardAI
->>>>>>> dd98b4b893e73f2185248397cecf5956b28cdd72
